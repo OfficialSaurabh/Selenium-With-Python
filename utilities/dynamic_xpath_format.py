@@ -14,5 +14,7 @@ class DynamicXpathFormat():
         #Login to the website How to type and click on a web element
         driver.find_element(By.LINK_TEXT, "Sign In").click()
         email = driver.find_element(By.ID, "email")
+        test.sleep(2)
+        email.send_keys("test")
 
         driver.quit()
