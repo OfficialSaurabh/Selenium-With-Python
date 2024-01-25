@@ -1,0 +1,5 @@
+01/24/2024 12:22:45 PM: CustomLogging2: DEBUG:debug message
+01/24/2024 12:22:45 PM: CustomLogging2: INFO:info message
+01/24/2024 12:22:45 PM: CustomLogging2: WARNING:warnig message
+01/24/2024 12:22:45 PM: CustomLogging2: ERROR:error message
+01/24/2024 12:22:45 PM: CustomLogging2: CRITICAL:critical message

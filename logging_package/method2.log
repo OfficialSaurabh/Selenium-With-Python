@@ -1,0 +1,5 @@
+01/24/2024 12:22:45 PM: method2: DEBUG:debug message
+01/24/2024 12:22:45 PM: method2: INFO:info message
+01/24/2024 12:22:45 PM: method2: WARNING:warnig message
+01/24/2024 12:22:45 PM: method2: ERROR:error message
+01/24/2024 12:22:45 PM: method2: CRITICAL:critical message

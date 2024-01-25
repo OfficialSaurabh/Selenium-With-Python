@@ -1,0 +1,5 @@
+01/24/2024 11:02:27 AM - root - DEBUG - debug message
+01/24/2024 11:02:27 AM - root - INFO - info message
+01/24/2024 11:02:27 AM - root - WARNING - warnig message
+01/24/2024 11:02:27 AM - root - ERROR - error message
+01/24/2024 11:02:27 AM - root - CRITICAL - critical message
